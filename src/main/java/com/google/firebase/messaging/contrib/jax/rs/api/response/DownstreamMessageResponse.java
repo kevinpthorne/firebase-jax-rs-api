@@ -1,4 +1,4 @@
-package firebase.appserver.http.downstream.response;
+package com.google.firebase.messaging.contrib.jax.rs.api.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;

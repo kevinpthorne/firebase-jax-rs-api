@@ -1,4 +1,4 @@
-package firebase.appserver.http.downstream.filters;
+package com.google.firebase.messaging.contrib.jax.rs.api.filters;
 
 import javax.ws.rs.client.ClientRequestContext;
 import javax.ws.rs.client.ClientRequestFilter;

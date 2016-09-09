@@ -1,7 +1,7 @@
-package firebase.appserver.http.downstream;
+package com.google.firebase.messaging.contrib.jax.rs.api;
 
-import firebase.appserver.http.downstream.request.DownstreamMessageRequest;
-import firebase.appserver.http.downstream.response.DownstreamMessageResponse;
+import com.google.firebase.messaging.contrib.jax.rs.api.request.DownstreamMessageRequest;
+import com.google.firebase.messaging.contrib.jax.rs.api.response.DownstreamMessageResponse;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.POST;

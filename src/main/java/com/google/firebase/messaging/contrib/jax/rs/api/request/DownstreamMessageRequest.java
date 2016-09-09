@@ -1,8 +1,6 @@
-package firebase.appserver.http.downstream.request;
+package com.google.firebase.messaging.contrib.jax.rs.api.request;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
-
-import java.util.LinkedHashMap;
 
 /**
  * Created by kevint on 9/5/2016.
