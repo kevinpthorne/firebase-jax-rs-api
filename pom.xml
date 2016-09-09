@@ -9,6 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <name>Firebase JAX-RS API</name>
+    <description>JAX-RS API to make interacting with Firebase from your app server with any JAX-RS client easy</description>
+    <url>https://github.com/KevinThorne/firebase-jax-rs-api</url>
+
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
